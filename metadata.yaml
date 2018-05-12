@@ -1,0 +1,37 @@
+_repo: Fires-of-St.-JohnA-Drama-in-Four-Acts_34356
+_version: 0.1.0
+alternative_title: Johannisfeuer. English
+contributor:
+  translator:
+    agent_name: Swickard, Charles
+    gutenberg_agent_id: '36972'
+    url: http://www.gutenberg.org/2009/agents/36972
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sudermann, Herman
+    - Sudermann, H. (Hermann)
+    - Sunderman, Hermann
+    birthdate: 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+description: ''
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+title: 'Fires of St. John: A Drama in Four Acts'
+url: http://www.gutenberg.org/ebooks/34356
